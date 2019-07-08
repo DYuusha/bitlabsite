@@ -1,0 +1,38 @@
+{
+  "1": {
+    "titulo": "Introducción a la estrategia digital",
+    "descripcion": "Aprende conceptos básicos, los medios digitales de tendencia, lo básico de un plan de pauta, buenas prácticas, hacks y herramientas para iniciar u optimizar tu estrategia digital. ",
+    "instructor": "Fabiola León",
+    "tipo": false,
+    "tiempo": "4 horas",
+    "imagen": "https://i.imgur.com/hM1RZNZ.jpg",
+    "categoria": "2"
+  },
+  "2": {
+    "titulo": "Introducción al desarrollo de software",
+    "descripcion": "Aprenderás conceptos básicos de programación y herramientas para entrar al mundo del desarrollo web y móvil. Este curso es requisito para personas con conocimiento básico y sin conocimiento en el área. ",
+    "instructor": "Eduardo Linares",
+    "tipo": true,
+    "tiempo": "4 horas",
+    "imagen": "https://i.imgur.com/3lGxxza.jpg",
+    "categoria": "1"
+  },
+  "3": {
+    "titulo": "Introducción al emprendimiento",
+    "descripcion": "Descubre el camino para emprender en El Salvador desde construir tu modelo de negocio, herramientas, aliados y opciones de fondeo hasta cómo preparar un Pitch Deck. ",
+    "instructor": "Carlos Moreno",
+    "tipo": true,
+    "tiempo": "4 horas",
+    "imagen": "https://i.imgur.com/hbUUJcw.jpg",
+    "categoria": "4"
+  },
+  "4": {
+    "titulo": "Introducción al UX & UI",
+    "descripcion": "Conoceras la diferencia entre la Experiencia de Usuario y la Interfaz de Usuario, entenderas el significado de cada uno, y aprenderas procesos y tips que te ayudaran a lograr un buen producto digital.",
+    "instructor": "Luis Pinto",
+    "tipo": true,
+    "tiempo": "4 horas",
+    "imagen": "https://i.imgur.com/7qA6rzg.jpg",
+    "categoria": "2"
+  }
+}

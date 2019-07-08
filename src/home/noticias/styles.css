@@ -1,0 +1,12 @@
+.montserrat {
+    font-family: 'Montserrat', sans-serif !important;
+}
+.max{
+    width: 100%;
+    max-width: 427px;
+}
+.maxImage{
+    width: 100%;
+    max-width: 490px;
+
+}
